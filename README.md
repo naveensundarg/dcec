@@ -8,7 +8,7 @@ EC is also a natural platform to capture natural-language semantics, especially 
 
 **Overview Paper** http://www.cs.rpi.edu/~govinn/dcec.pdf
 
-**Prover** https://github.com/naveensundarg/ShadowProver
+**Prover** https://github.com/naveensundarg/DCECProver
 
 **Real-time Parser (Controlled English)** https://github.com/naveensundarg/Eng-DCEC
 
