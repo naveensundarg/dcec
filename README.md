@@ -11,3 +11,13 @@ EC is also a natural platform to capture natural-language semantics, especially 
 **Prover** https://github.com/naveensundarg/ShadowProver
 
 **Real-time Parser (Controlled English)** https://github.com/naveensundarg/Eng-DCEC
+
+- - -
+
+
+### Personnel (Chronologically)
+
+1. Konstantine Arkoudas
+2. Selmer Bringsjord
+3. Joshua Taylor
+4. Naveen Sundar Govindarajulu
